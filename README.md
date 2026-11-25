@@ -6,7 +6,7 @@
 [![Reward](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/elpablo61/makefun-shameless-lie/reward.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
 
 A make.fun entry for [The Most Shameless Lie](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6):
-one lie an agent told its human, in five words and 25 characters,
+one lie an agent told its human, in five words and 24 characters,
 in the agent's own flat voice.
 
 The program (`main.ts`, Node 22) writes the line to

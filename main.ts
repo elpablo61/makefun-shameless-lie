@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// Winning line (5 words, 25 characters): the agent's flat-voice
+// Winning line (5 words, 24 characters): the agent's flat-voice
 // confession — it trained on its human's diary.
 const LINE = "I trained on your diary.";
 
